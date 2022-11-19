@@ -1,0 +1,20 @@
+sister
+brother
+relation
+cousins
+cousin
+granny
+aunt
+uncle
+family
+mom
+mother
+dad
+father
+grand mother
+grand father
+child
+baby
+tv
+house
+home
